@@ -1,18 +1,24 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" id="圖層_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="63px" height="49px" viewBox="0 0 63 49" enable-background="new 0 0 63 49" xml:space="preserve">
-<path fill="none" stroke="#cf4d52" stroke-linecap="round" stroke-linejoin="round" d="M5.5,14.5v-14h52v4 M31.5,40.5h-10"/>
-<line fill="none" stroke="#cf4d52" stroke-linecap="round" stroke-linejoin="round" x1="21.5" y1="48.5" x2="32.5" y2="48.5"/>
-<line fill="none" stroke="#cf4d52" stroke-linecap="round" stroke-linejoin="round" x1="27.5" y1="48.5" x2="28.5" y2="44.5"/>
-<path fill="none" stroke="#cf4d52" stroke-linecap="round" stroke-linejoin="round" d="M2.5,18.5h13c1.104,0,2,0.896,2,2v26
-	c0,1.104-0.896,2-2,2h-13c-1.104,0-2-0.896-2-2v-26C0.5,19.396,1.396,18.5,2.5,18.5z"/>
-<path fill="none" stroke="#cf4d52" stroke-linecap="round" stroke-linejoin="round" d="M37.5,8.5h23c1.108,0,2,0.892,2,2v36
-	c0,1.108-0.892,2-2,2h-23c-1.108,0-2-0.892-2-2v-36C35.5,9.392,36.392,8.5,37.5,8.5z"/>
-<line fill="none" stroke="#cf4d52" stroke-linecap="round" stroke-linejoin="round" x1="21.5" y1="35.5" x2="31.5" y2="35.5"/>
-<line fill="none" stroke="#cf4d52" stroke-linecap="round" stroke-linejoin="round" x1="0.5" y1="43.5" x2="17.5" y2="43.5"/>
-<line fill="none" stroke="#cf4d52" stroke-linecap="round" stroke-linejoin="round" x1="0.5" y1="22.5" x2="17.5" y2="22.5"/>
-<line fill="none" stroke="#cf4d52" stroke-linecap="round" stroke-linejoin="round" x1="35.5" y1="13.5" x2="62.5" y2="13.5"/>
-<line fill="none" stroke="#cf4d52" stroke-linecap="round" stroke-linejoin="round" x1="35.5" y1="43.5" x2="62.5" y2="43.5"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_圖層_1" data-name="圖層_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 63 49">
+  <!-- Generator: Adobe Illustrator 29.1.0, SVG Export Plug-In . SVG Version: 2.1.0 Build 142)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: none;
+        stroke: #00a38b;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+    </style>
+  </defs>
+  <path class="st0" d="M5.5,14.5V.5h52v4M31.5,40.5h-10"/>
+  <line class="st0" x1="21.5" y1="48.5" x2="32.5" y2="48.5"/>
+  <line class="st0" x1="27.5" y1="48.5" x2="28.5" y2="44.5"/>
+  <path class="st0" d="M2.5,18.5h13c1.1,0,2,.9,2,2v26c0,1.1-.9,2-2,2H2.5c-1.1,0-2-.9-2-2v-26c0-1.1.9-2,2-2Z"/>
+  <path class="st0" d="M37.5,8.5h23c1.1,0,2,.9,2,2v36c0,1.1-.9,2-2,2h-23c-1.1,0-2-.9-2-2V10.5c0-1.1.9-2,2-2Z"/>
+  <line class="st0" x1="21.5" y1="35.5" x2="31.5" y2="35.5"/>
+  <line class="st0" x1=".5" y1="43.5" x2="17.5" y2="43.5"/>
+  <line class="st0" x1=".5" y1="22.5" x2="17.5" y2="22.5"/>
+  <line class="st0" x1="35.5" y1="13.5" x2="62.5" y2="13.5"/>
+  <line class="st0" x1="35.5" y1="43.5" x2="62.5" y2="43.5"/>
 </svg>
